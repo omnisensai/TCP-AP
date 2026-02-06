@@ -1,7 +1,6 @@
-TCP/AP
+TCP/AP - Transmission Control Protocol for Agentic Processes
 
-Transmission Control Protocol for Agentic Processes
-Foundational layer for deterministic agentic execution.
+***Foundational layer for deterministic agentic execution***
 
 Admissibility States & Meaning
 
