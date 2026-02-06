@@ -1,19 +1,13 @@
-# TCP-AP
-**Transmission Control Protocol / Agentic Protocol**
+TCP/AP
 
-The standard for deterministic agentic execution
+Transmission Control Protocol for Agentic Processes
+Foundational layer for deterministic agentic execution.
 
-## What is TCP/AP?
+Admissibility States & Meaning
 
-Just as TCP/IP provides reliable communication between computers, TCP/AP provides reliable commnuication and classification between AI and human decision-makers.
-
-### Schema Contracts
-
-- **Artifact schemas** — What agents must produce
-- **Validation schemas** — What Omnisensor accepts
-- **Eval schemas** — How ourputs are evaluated
-
----
+VALID	|  Admissible. Interpretation is stable. Agentic execution may proceed.
+INVALID |  Inadmissible. Violates defined constraints or schema. Agentic execution must halt.
+INTERPRETATION_DRIFT |  Unclassifiable. Interpretation is unstable across context, time, or execution. Admissibility semantics require human review and update.
 
 Documentation coming soon.
 
