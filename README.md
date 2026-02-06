@@ -1,6 +1,4 @@
 # TCP-AP
-Transmission Control Protocol / Agentic Protocol
-
 **Transmission Control Protocol / Agentic Protocol**
 
 The standard for deterministic agentic execution
