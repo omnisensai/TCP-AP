@@ -4,9 +4,9 @@ TCP/AP - Transmission Control Protocol for Agentic Processes
 
 Admissibility States & Meaning
 
-VALID	|  Admissible. Interpretation is stable. Agentic execution may proceed.
-INVALID |  Inadmissible. Violates defined constraints or schema. Agentic execution must halt.
-INTERPRETATION_DRIFT |  Unclassifiable. Interpretation is unstable across context, time, or execution. Admissibility semantics require human review and update.
+VALID	|  Admissible. Interpretation is stable. Agentic execution may proceed. \\
+INVALID |  Inadmissible. Violates defined constraints or schema. Agentic execution must halt. \\
+INTERPRETATION_DRIFT |  Unclassifiable. Interpretation is unstable across context, time, or execution. Admissibility semantics require human review and update. \\
 
 Documentation coming soon.
 
